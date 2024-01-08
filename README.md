@@ -1,2 +1,3 @@
 # My First Repository 
-## print("hello Abdullahi") 
+## Sending this as motivation 
+#### we'll do this () i
